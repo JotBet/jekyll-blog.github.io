@@ -1,11 +1,11 @@
 title: Stack Problems
 description: My Personal Stack Problems
-author: Agus Makmun
+author: Андрей Лесько
 github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
+about: "Обкатываю буки"
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
+avatar_url: /static/img/avatar-img.png
 
 enableTags: true
 tagarray: []
@@ -16,28 +16,30 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
-    - icon: fa-stack-exchange
-      link: "#"
-    - icon: fa-github
-      link: "https://github.com/agusmakmun"
+    - icon: fa-vimeo
+      link: "https://vimeo.com/obkat"
+    - icon: fa-youtube
+      link: "https://youtube.com/obkat"
+
+    # - icon: fa-linkedin
+    #   link: "https://www.linkedin.com/in/summonagus"
+    # - icon: fa-stack-exchange
+    #   link: "#"
+    # - icon: fa-github
+    #   link: "https://github.com/agusmakmun"
 
 share:
   twitter_username: agusmakmun6
   fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
-      url: /about/
-    - text: My Projects
+    - text: Главная
+      url: /index.html
+    - text: Мои проекты
       url: /projects/
-    - text: XML Feed
-      url: /feed.xml
+    - text: Oбо мне
+      url: /about/
+
 
 url: "https://agusmakmun.github.io"
 baseurl: ""
