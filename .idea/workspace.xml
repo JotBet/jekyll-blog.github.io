@@ -2,47 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0946fb5-58f7-4262-b55c-1d5639e80ab3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/static/img/avatar-img.png" afterPath="$PROJECT_DIR$/_site/static/img/avatar-img.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/README.md" afterPath="$PROJECT_DIR$/_site/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="$PROJECT_DIR$/_site/about/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/bash/2016/04/19/download-recrusive-files-inside-index-of-in-linux-using-wget.html" afterPath="$PROJECT_DIR$/_site/bash/2016/04/19/download-recrusive-files-inside-index-of-in-linux-using-wget.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/bash/2016/04/19/simple-bash-scripting-for-login-before-open-the-terminal.html" afterPath="$PROJECT_DIR$/_site/bash/2016/04/19/simple-bash-scripting-for-login-before-open-the-terminal.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/bash.html" afterPath="$PROJECT_DIR$/_site/category/bash.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/codefights.html" afterPath="$PROJECT_DIR$/_site/category/codefights.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/django.html" afterPath="$PROJECT_DIR$/_site/category/django.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/jekyll.html" afterPath="$PROJECT_DIR$/_site/category/jekyll.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/others.html" afterPath="$PROJECT_DIR$/_site/category/others.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/python.html" afterPath="$PROJECT_DIR$/_site/category/python.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/raspberry.html" afterPath="$PROJECT_DIR$/_site/category/raspberry.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/ruby.html" afterPath="$PROJECT_DIR$/_site/category/ruby.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/security.html" afterPath="$PROJECT_DIR$/_site/category/security.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/django/2016/04/19/replace-email-backend-gmail-to-postmarkapp-for-django.html" afterPath="$PROJECT_DIR$/_site/django/2016/04/19/replace-email-backend-gmail-to-postmarkapp-for-django.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/django/raspberry/2016/04/20/setup-django-in-apache2-raspberry-pi.html" afterPath="$PROJECT_DIR$/_site/django/raspberry/2016/04/20/setup-django-in-apache2-raspberry-pi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/jekyll/2013/02/19/welcome-to-jekyll.html" afterPath="$PROJECT_DIR$/_site/jekyll/2013/02/19/welcome-to-jekyll.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/jekyll/2013/12/23/welcome-to-simply-grey.html" afterPath="$PROJECT_DIR$/_site/jekyll/2013/12/23/welcome-to-simply-grey.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/others/2016/04/26/javascript-validator-for-input-number.html" afterPath="$PROJECT_DIR$/_site/others/2016/04/26/javascript-validator-for-input-number.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page/2/index.html" afterPath="$PROJECT_DIR$/_site/page/2/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/project/cool-project/index.html" afterPath="$PROJECT_DIR$/_site/project/cool-project/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/projects/index.html" afterPath="$PROJECT_DIR$/_site/projects/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/python/2016/04/19/python-permutations.html" afterPath="$PROJECT_DIR$/_site/python/2016/04/19/python-permutations.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/python/bash/2016/04/19/remove-all-files-pyc-with-recrusive-method.html" afterPath="$PROJECT_DIR$/_site/python/bash/2016/04/19/remove-all-files-pyc-with-recrusive-method.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/python/codefights/2016/05/22/censorthis-censor-the-words-cf.html" afterPath="$PROJECT_DIR$/_site/python/codefights/2016/05/22/censorthis-censor-the-words-cf.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/python/codefights/2016/05/22/notpaired-cf.html" afterPath="$PROJECT_DIR$/_site/python/codefights/2016/05/22/notpaired-cf.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/python/codefights/2016/05/22/reverse-bit-cf.html" afterPath="$PROJECT_DIR$/_site/python/codefights/2016/05/22/reverse-bit-cf.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/python/codefights/2016/06/11/find-substrings-for-line-encoding-cf.html" afterPath="$PROJECT_DIR$/_site/python/codefights/2016/06/11/find-substrings-for-line-encoding-cf.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/python/codefights/2016/06/11/find-the-number-of-even-digits-in-the-given-integer-cf.html" afterPath="$PROJECT_DIR$/_site/python/codefights/2016/06/11/find-the-number-of-even-digits-in-the-given-integer-cf.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/python/codefights/2016/06/11/get-month-name-cf.html" afterPath="$PROJECT_DIR$/_site/python/codefights/2016/06/11/get-month-name-cf.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/python/django/2016/04/19/email-backend-with-smtp-gmail.html" afterPath="$PROJECT_DIR$/_site/python/django/2016/04/19/email-backend-with-smtp-gmail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/python/django/2016/04/20/adding-broadcast-mail-to-all-users-registered-inside-django-admin.html" afterPath="$PROJECT_DIR$/_site/python/django/2016/04/20/adding-broadcast-mail-to-all-users-registered-inside-django-admin.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/python/django/2016/04/20/custom-redirect-urls-django.html" afterPath="$PROJECT_DIR$/_site/python/django/2016/04/20/custom-redirect-urls-django.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/python/django/2016/12/29/top-10-python-libraries-of-2016.html" afterPath="$PROJECT_DIR$/_site/python/django/2016/12/29/top-10-python-libraries-of-2016.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/python/security/2016/05/21/python-crazy-decrypter-has-been-released.html" afterPath="$PROJECT_DIR$/_site/python/security/2016/05/21/python-crazy-decrypter-has-been-released.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/python/security/2016/05/21/python-simple-ciphertext.html" afterPath="$PROJECT_DIR$/_site/python/security/2016/05/21/python-simple-ciphertext.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/ruby/2013/12/23/ruby-json.html" afterPath="$PROJECT_DIR$/_site/ruby/2013/12/23/ruby-json.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/sitemap.xml" afterPath="$PROJECT_DIR$/_site/sitemap.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/static/css/main.css" afterPath="$PROJECT_DIR$/_site/static/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/main.css" afterPath="$PROJECT_DIR$/static/css/main.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,20 +19,22 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="306" column="15" lean-forward="true" selection-start-line="306" selection-start-column="15" selection-end-line="306" selection-end-column="15" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>submit</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -76,6 +43,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/static/css/main.css" />
       </list>
     </option>
   </component>
@@ -115,6 +83,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="jotbet.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jotbet.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jotbet.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jotbet.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jotbet.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -222,15 +222,16 @@
       <updated>1551204979142</updated>
       <workItem from="1551204981278" duration="479000" />
       <workItem from="1551205624917" duration="83000" />
-      <workItem from="1551256244212" duration="120000" />
+      <workItem from="1551256244212" duration="810000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="682000" />
+    <option name="totallyTimeSpent" value="1372000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25716332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -240,7 +241,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31084338" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31084338" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -266,11 +267,19 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <first_editor relative-caret-position="29">
+            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="306" column="15" lean-forward="true" selection-start-line="306" selection-start-column="15" selection-end-line="306" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>

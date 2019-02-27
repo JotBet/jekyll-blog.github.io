@@ -275,30 +275,36 @@ input:focus, textarea:focus {
   width: 100%;
   border: #fbfbfb solid 4px;
   cursor:pointer;
-  background-color: #3498db;
+  background-color: #3fa757;
   color:white;
   font-size:24px;
-  padding-top:22px;
-  padding-bottom:22px;
+  padding-top:14px;
+  padding-bottom:14px;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   transition: all 0.3s;
   margin-top:-4px;
-  font-weight:700;
+  font-weight:100;
 }
 
 #button-blue:hover{
   background-color: rgba(0,0,0,0);
   color: #0493bd;
+  padding-top:14px;
+  padding-bottom:14px;
+  font-weight:100;
 }
 
 .submit:hover {
   color: #3498db;
+  padding-top:14px;
+  padding-bottom:14px;
+  font-weight:100;
 }
 
 .ease {
   width: 0px;
-  height: 74px;
+  height: 53px;
   background-color: #fbfbfb;
   -webkit-transition: .3s ease;
   -moz-transition: .3s ease;
@@ -306,10 +312,15 @@ input:focus, textarea:focus {
   -ms-transition: .3s ease;
   transition: .3s ease;
 }
+.submit {padding-top:14px;
+  padding-bottom:14px;}
 
 .submit:hover .ease{
   width:100%;
   background-color:white;
+  padding-top:14px;
+  padding-bottom:14px;
+  font-weight:100;
 }
 
 @media only screen and (max-width: 580px) {
