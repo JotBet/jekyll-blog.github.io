@@ -6,7 +6,7 @@ permalink: /contact/
 
 <div id="form-main">
   <div id="form-div">
-    <form class="form" id="form1">
+    <form class="form" id="form">
       
       <p class="name">
         <input name="name" type="text" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="Name" id="name" />
