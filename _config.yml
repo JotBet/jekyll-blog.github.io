@@ -20,7 +20,8 @@ social:
       link: "https://vimeo.com/obkat"
     - icon: fa-youtube
       link: "https://youtube.com/obkat"
-
+    - icon: fa-twitch
+      link: "https://www.twitch.tv/obkat"
     # - icon: fa-linkedin
     #   link: "https://www.linkedin.com/in/summonagus"
     # - icon: fa-stack-exchange
@@ -39,7 +40,8 @@ urls:
       url: /projects/
     - text: Oбо мне
       url: /about/
-
+    - text: Контакт
+      url: /contact/
 
 url: "https://agusmakmun.github.io"
 baseurl: ""
