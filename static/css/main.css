@@ -335,6 +335,25 @@ input:focus, textarea:focus {
 }
 
 /*Form contact end*/
+.embed-container iframe.one, .embed-container iframe.four {margin-left: 10px; margin-bottom: 10px}
+.embed-container iframe.two, .embed-container iframe.five{margin-left: 10px; margin-bottom: 10px}
+.embed-container iframe.three, .embed-container iframe.six{margin-left: 10px; margin-bottom: 10px}
+
+/*Style video item*/
+.embed-container {
+  position: relative;
+  overflow: hidden;
+  max-width: 100%;
+  display: inline-grid;
+}
+
+.embed-container iframe, .embed-container object, .embed-container embed {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+/*Style video item end*/
+
 
 
 
@@ -342,14 +361,28 @@ input:focus, textarea:focus {
 
 
 /* Responsive Conditional */
+@media (max-width: 1200px) {
+  .embed-container iframe {width: 210px;}
+}
+
 @media (min-width: 1024px) {
   .fixed-condition {
     position: fixed;
     max-width: 255px;
   }
 }
+@media (max-width: 988px) {
+  .embed-container iframe {width: 390px;}
+}
+
 @media (max-width: 768px) {
   div.col-sm-3 {
-    margin-top: 30px;
-  }
+    margin-top: 30px;}
+  .embed-container iframe {width: 220px;}
+}
+@media (max-width: 755px) {
+  .embed-container iframe {width: 334px;}
+}
+@media (max-width: 752px) {
+  .embed-container iframe {width: 690px;}
 }
