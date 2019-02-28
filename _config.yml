@@ -38,12 +38,13 @@ urls:
       url: /index.html
     - text: Мои проекты
       url: /projects/
+    - text: Видео
+      url: /video/
     - text: Oбо мне
       url: /about/
     - text: Контакт
       url: /contact/
-    - text: Видео
-      url: /video/
+
 
 url: "https://agusmakmun.github.io"
 baseurl: ""
