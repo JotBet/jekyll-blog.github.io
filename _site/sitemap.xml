@@ -5,8 +5,8 @@
     <description>My Personal Stack Problems</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Feb 2019 16:43:49 +0800</pubDate>
-    <lastBuildDate>Thu, 28 Feb 2019 16:43:49 +0800</lastBuildDate>
+    <pubDate>Thu, 28 Feb 2019 17:38:54 +0800</pubDate>
+    <lastBuildDate>Thu, 28 Feb 2019 17:38:54 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -84,6 +84,16 @@
         <pubDate>Thu, 29 Dec 2016 19:34:10 +0800</pubDate>
         <link>http://localhost:4000/python/django/2016/12/29/top-10-python-libraries-of-2016.html</link>
         <guid isPermaLink="true">http://localhost:4000/python/django/2016/12/29/top-10-python-libraries-of-2016.html</guid>
+        
+        <category>jekyll</category>
+        
+        <category>blog</category>
+        
+        <category>github-page</category>
+        
+        <category>test</category>
+        
+        <category>2019</category>
         
         
         <category>python</category>
@@ -1072,7 +1082,7 @@ EMAIL_BACKEND       = 'django.core.mail.backends.smtp.EmailBackend'
     
       <item>
         <title>Parsing JSON with Ruby</title>
-        <description>&lt;p&gt;Parsing JSON with Ruby is actually extremely easy. All you have to do is have the json gem installed (&lt;code class=&quot;highlighter-rouge&quot;&gt;gem install json&lt;/code&gt;) and call the &lt;code class=&quot;highlighter-rouge&quot;&gt;JSON.parse&lt;/code&gt; method on the JSON data to convert it to ruby hashes. If you look at this small program here, you can see how I have implemented parsing JSON in Ruby.&lt;/p&gt;
+        <description>&lt;p&gt;Test tags&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;#!/usr/bin/env ruby&lt;/span&gt;
 
