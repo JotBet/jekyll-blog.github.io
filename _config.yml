@@ -42,6 +42,8 @@ urls:
       url: /about/
     - text: Контакт
       url: /contact/
+    - text: Видео
+      url: /video/
 
 url: "https://agusmakmun.github.io"
 baseurl: ""

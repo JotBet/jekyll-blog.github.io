@@ -338,7 +338,8 @@ input:focus, textarea:focus {
 .embed-container iframe.one, .embed-container iframe.four {margin-left: 10px; margin-bottom: 10px}
 .embed-container iframe.two, .embed-container iframe.five{margin-left: 10px; margin-bottom: 10px}
 .embed-container iframe.three, .embed-container iframe.six{margin-left: 10px; margin-bottom: 10px}
-
+.embed-container iframe.seven, .embed-container iframe.nine{margin-left: 10px; margin-bottom: 10px}
+.embed-container iframe.eight {margin-left: 10px; margin-bottom: 10px}
 /*Style video item*/
 .embed-container {
   position: relative;
