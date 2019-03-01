@@ -1,18 +1,23 @@
 ---
 layout: home
 title: "Tag: hololens"
-tag: category_1
+tag: category_2
 ---
 
 <div id="home">
-  <h1>Категория project_1</h1>
+  <h1>Категория project_2</h1>
   <hr />
 
   <ol class="posts">
-    {% for post in site.posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
-    {% endfor %}
-  </ol>
+       <li><a href="/python/bash/2016/04/19/remove-all-files-pyc-with-recrusive-method.html">Parsing JSON with Ruby 1</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+       <li><a href="/python/bash/2016/04/19/remove-all-files-pyc-with-recrusive-method.html">Parsing JSON with Ruby 2</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+       <li><a href="/python/bash/2016/04/19/remove-all-files-pyc-with-recrusive-method.html">Parsing JSON with Ruby 3</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+       <li><a href="/python/bash/2016/04/19/remove-all-files-pyc-with-recrusive-method.html">Parsing JSON with Ruby 4</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+       <li><a href="/python/bash/2016/04/19/remove-all-files-pyc-with-recrusive-method.html">Parsing JSON with Ruby 5</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+       <li><a href="/python/bash/2016/04/19/remove-all-files-pyc-with-recrusive-method.html">Parsing JSON with Ruby 6</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+       <li><a href="/python/bash/2016/04/19/remove-all-files-pyc-with-recrusive-method.html">Parsing JSON with Ruby 7</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+       <li><a href="/python/bash/2016/04/19/remove-all-files-pyc-with-recrusive-method.html">Parsing JSON with Ruby 8</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+    </ol>
 
   <!-- Pagination links -->
   {% if paginator.total_pages > 1 %}
