@@ -14,37 +14,84 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4524">
-              <caret line="156" column="56" lean-forward="false" selection-start-line="156" selection-start-column="56" selection-end-line="156" selection-end-column="56" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/static/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="359" column="15" lean-forward="false" selection-start-line="359" selection-start-column="15" selection-end-line="359" selection-end-column="15" />
+            <state relative-caret-position="-1606">
+              <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="video.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/video.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="232">
-                <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="61" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="posts_by_category.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/posts_by_category.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="e#1388#1395#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-49">
+              <caret line="43" column="15" lean-forward="false" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="65" column="76" lean-forward="false" selection-start-line="65" selection-start-column="66" selection-end-line="65" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1421">
+              <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post-tag-category-one.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/post-tag-category-one.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="159" column="25" lean-forward="false" selection-start-line="159" selection-start-column="25" selection-end-line="159" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -53,28 +100,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>submit</find>
-      <find>#3498db</find>
-      <find>#button-blue</find>
+      <find>embed-container</find>
+      <find>.main-layout .side</find>
+      <find>width=&quot;230&quot;</find>
+      <find>2</find>
+      <find>2019</find>
+      <find>201</find>
+      <find>j</find>
+      <find>jek</find>
+      <find>jekyl</find>
+      <find>jekyll</find>
+      <find>c</find>
+      <find>conte</find>
       <find>content</find>
-      <find>&quot;/static/projects/placeholder.jpg</find>
-      <find>vide</find>
-      <find>url('/static/projects/placeholder.jpg');&quot;</find>
-      <find>proje</find>
-      <find>img</find>
-      <find>&lt;img src=&quot;/static/</find>
-      <find>you</find>
-      <find>head</find>
-      <find>сщд-ыь</find>
-      <find>сщд-ы</find>
-      <find>сщд-</find>
-      <find>сщд</find>
-      <find>сщ</find>
-      <find>с</find>
-      <find>co</find>
-      <find>col-sm-</find>
-      <find>Related Posts</find>
-      <find>col-sm-3</find>
+      <find>Stack Problems</find>
+      <find>\-\-\-\nlayout\: compress\n\-\-\-\n\&lt;\!DOCTYPE html\&gt;\n\&lt;html\&gt;\n  \&lt;head\&gt;\n    \&lt;meta charset\=\&quot;utf\-8\&quot;\&gt;\n    \&lt;meta http\-equiv\=\&quot;X\-UA\-Compatible\&quot; content\=\&quot;IE\=edge\,chrome\=1\&quot;\&gt;\n    \&lt;meta name\=\&quot;viewport\&quot; content\=\&quot;width\=device\-width\, initial\-scale\=1\&quot;\&gt;\n    \&lt;link rel\=\&quot;shortcut icon\&quot; href\=\&quot;\/static\/img\/favicon\.ico\&quot; \/\&gt;\n    \&lt;title\&gt;\{\% if page\.title \%\}\{\{ page\.title \}\} \- \{\{ site\.title \}\}\{\% else \%\}\{\{ site\.author \}\}\{\% endif \%\}\&lt;\/title\&gt;\n    \&lt;meta name\=\&quot;author\&quot; content\=\&quot;\{\{ site\.author \}\}\&quot; \/\&gt;\n    \&lt;meta name\=\&quot;description\&quot; content\=\&quot;\{\% if page\.title \%\}\{\{ page\.title \}\}\{\% else \%\}\{\{ site\.description \}\}\{\% endif \%\}\&quot; \/\&gt;\n    \&lt;meta name\=\&quot;keywords\&quot; content\=\&quot;\{\% if page\.title \%\}\{\{ page\.title \}\}\, \{\{ site\.title \}\}\, \{\% for categ in page\.categories \%\}\{\{ categ \}\}\{\% if forloop\.last \=\= false \%\}\, \{\% endif \%\}\{\% endfor \%\}\{\% else \%\}\{\{ site\.title \}\}\, \{\% for category in site\.categories \%\}\{\% capture categories_slug \%\}\{\{ category \| first \}\}\{\% endcapture \%\}\{\% for categ in categories_slug \%\}\{\{ categ \}\}\{\% endfor \%\}\{\% if forloop\.last \=\= false \%\}\, \{\% endif \%\}\{\% endfor \%\}\{\% endif \%\}\&quot; \/\&gt;\n    \&lt;link rel\=\&quot;alternate\&quot; type\=\&quot;application\/rss\+xml\&quot; title\=\&quot;RSS\&quot; href\=\&quot;\/feed\.xml\&quot;\&gt;\n    \&lt;meta content\=\&quot;\{\{ site\.share\.fb_appid \}\}\&quot; property\=\&quot;fb\:app_id\&quot;\&gt;\n    \&lt;meta content\=\&quot;\{\{ site\.title \}\}\&quot; property\=\&quot;og\:site_name\&quot;\&gt;\n\n    \{\% if site\.tags \!\= \&quot;\&quot; \%\}\n    \{\% include collecttags\.html \%\}\n    \{\% endif \%\}\n\n\n    \{\% if page\.noindex \%\}\n      \&lt;meta name\=\&quot;robots\&quot; content\=\&quot;noindex\&quot;\&gt;\n    \{\% endif \%\}\n\n    \{\% if page\.title \%\}\n      \&lt;meta content\=\&quot;\{\{ page\.title \}\}\&quot; property\=\&quot;og\:title\&quot;\&gt;\n      \&lt;meta content\=\&quot;article\&quot; property\=\&quot;og\:type\&quot;\&gt;\n    \{\% else \%\}\n      \&lt;meta content\=\&quot;\{\{ site\.title \}\}\&quot; property\=\&quot;og\:title\&quot;\&gt;\n      \&lt;meta content\=\&quot;website\&quot; property\=\&quot;og\:type\&quot;\&gt;\n    \{\% endif \%\}\n\n    \{\% if page\.description \%\}\n      \&lt;meta content\=\&quot;\{\{ page\.description \}\}\&quot; property\=\&quot;og\:description\&quot;\&gt;\n    \{\% else \%\}\n      \&lt;meta content\=\&quot;\{\{ site\.description \}\}\&quot; property\=\&quot;og\:description\&quot;\&gt;\n    \{\% endif \%\}\n\n    \{\% if page\.url \%\}\n      \&lt;meta content\=\&quot;\{\{ site\.url \}\}\{\{ page\.url \}\}\&quot; property\=\&quot;og\:url\&quot;\&gt;\n    \{\% endif \%\}\n\n    \{\% if page\.date \%\}\n      \&lt;meta content\=\&quot;\{\{ page\.date \| date_to_xmlschema \}\}\&quot; property\=\&quot;article\:published_time\&quot;\&gt;\n      \&lt;meta content\=\&quot;\{\{ site\.url \}\}\/about\/\&quot; property\=\&quot;article\:author\&quot;\&gt;\n    \{\% endif \%\}\n\n    \{\% if page\.image \%\}\n      \&lt;meta content\=\&quot;\{\{ site\.url \}\}\/static\/img\/posts\/\{\{ page\.image \}\}\&quot; property\=\&quot;og\:image\&quot;\&gt;\n    \{\% else \%\}\n      \&lt;meta content\=\&quot;\{\{ site\.url \}\}\{\{ site\.avatar_url \}\}\&quot; property\=\&quot;og\:image\&quot;\&gt;\n    \{\% endif \%\}\n\n    \{\% if page\.categories \%\}\n      \{\% for category in page\.categories limit\:1 \%\}\n        \&lt;meta content\=\&quot;\{\{ category \}\}\&quot; property\=\&quot;article\:section\&quot;\&gt;\n      \{\% endfor \%\}\n    \{\% endif \%\}\n\n    \{\% if page\.tags \%\}\n      \{\% for tag in page\.tags \%\}\n        \&lt;meta content\=\&quot;\{\{ tag \}\}\&quot; property\=\&quot;article\:tag\&quot;\&gt;\n      \{\% endfor \%\}\n    \{\% endif \%\}\n\n    \&lt;meta name\=\&quot;twitter\:card\&quot; content\=\&quot;summary\&quot;\&gt;\n    \&lt;meta name\=\&quot;twitter\:site\&quot; content\=\&quot;\@\{\{ site\.share\.twitter_username \}\}\&quot;\&gt;\n    \&lt;meta name\=\&quot;twitter\:creator\&quot; content\=\&quot;\@\{\{ site\.share\.twitter_username \}\}\&quot;\&gt;\n\n    \{\% if page\.title \%\}\n      \&lt;meta name\=\&quot;twitter\:title\&quot; content\=\&quot;\{\{ page\.title \}\}\&quot;\&gt;\n    \{\% else \%\}\n      \&lt;meta name\=\&quot;twitter\:title\&quot; content\=\&quot;\{\{ site\.title \}\}\&quot;\&gt;\n    \{\% endif \%\}\n\n    \{\% if page\.url \%\}\n      \&lt;meta name\=\&quot;twitter\:url\&quot; content\=\&quot;\{\{ site\.url \}\}\{\{ page\.url \}\}\&quot;\&gt;\n    \{\% endif \%\}\n\n    \{\% if page\.description \%\}\n      \&lt;meta name\=\&quot;twitter\:description\&quot; content\=\&quot;\{\{ page\.description \}\}\&quot;\&gt;\n    \{\% else \%\}\n      \&lt;meta name\=\&quot;twitter\:description\&quot; content\=\&quot;\{\{ site\.description \}\}\&quot;\&gt;\n    \{\% endif \%\}\n\n    \{\% if page\.header\-img \%\}\n      \&lt;meta name\=\&quot;twitter\:image\:src\&quot; content\=\&quot;\{\{ site\.url \}\}\/\{\{ page\.header\-img \}\}\&quot;\&gt;\n    \{\% endif \%\}\n\n    \&lt;\!\-\- Font awesome icons \-\-\&gt;\n    \&lt;link href\=\&quot;https\:\/\/maxcdn\.bootstrapcdn\.com\/font\-awesome\/4\.6\.3\/css\/font\-awesome\.min\.css\&quot; rel\=\&quot;stylesheet\&quot; integrity\=\&quot;sha384\-T8Gy5hrqNKT\+hzMclPo118YTQO6cYprQmhrYwIiQ\/3axmI1hQomh7Ud2hPOy8SP1\&quot; crossorigin\=\&quot;anonymous\&quot;\&gt;\n    \&lt;\!\-\- syntax highlighting CSS \-\-\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;\/static\/css\/syntax\.css\&quot;\&gt;\n    \&lt;\!\-\- Bootstrap core CSS \-\-\&gt;\n    \&lt;link href\=\&quot;\/static\/css\/bootstrap\.min\.css\&quot; rel\=\&quot;stylesheet\&quot;\&gt;\n    \&lt;\!\-\- Fonts \-\-\&gt;\n    \&lt;link href\=\&quot;https\:\/\/fonts\.googleapis\.com\/css\?family\=Roboto\+Condensed\:400\,300italic\,300\,400italic\,700\&amp;amp\;subset\=latin\,latin\-ext\&quot; rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot;\&gt;\n    \&lt;\!\-\- Custom CSS \-\-\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;\/static\/css\/super\-search\.css\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;\/static\/css\/thickbox\.css\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;\/static\/css\/projects\.css\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;\/static\/css\/main\.css\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;\/static\/js\/common\.js\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;\/static\/js\/mail\.php\&quot;\&gt;\n\n    \{\% if jekyll\.environment \=\= \&quot;production\&quot; \%\}\n      \&lt;\!\-\- Google Analytics \-\-\&gt;\n      \&lt;script\&gt;\n        \(function\(i\,s\,o\,g\,r\,a\,m\)\{i\[\'GoogleAnalyticsObject\'\]\=r\;i\[r\]\=i\[r\]\|\|function\(\)\{\n        \(i\[r\]\.q\=i\[r\]\.q\|\|\[\]\)\.push\(arguments\)\}\,i\[r\]\.l\=1\*new Date\(\)\;a\=s\.createElement\(o\)\,\n        m\=s\.getElementsByTagName\(o\)\[0\]\;a\.async\=1\;a\.src\=g\;m\.parentNode\.insertBefore\(a\,m\)\n        \}\)\(window\,document\,\'script\'\,\'https\:\/\/www\.google\-analytics\.com\/analytics\.js\'\,\'ga\'\)\;\n\n        ga\(\'create\'\, \'\{\{ site\.google_analytics \}\}\'\, \'auto\'\)\;\n        ga\(\'send\'\, \'pageview\'\)\;\n      \&lt;\/script\&gt;\n    \{\% endif \%\}\n  \&lt;\/head\&gt;\n  \&lt;body\&gt;\n    \&lt;div class\=\&quot;container\&quot;\&gt;\n      \&lt;div class\=\&quot;col\-sm\-3 col\-md\-2\&quot;\&gt;\n        \&lt;div class\=\&quot;fixed\-condition\&quot;\&gt;\n          \&lt;a href\=\&quot;\/\&quot;\&gt;\&lt;img class\=\&quot;profile\-avatar\&quot; src\=\&quot;\{\{ site\.avatar_url \}\}\&quot; height\=\&quot;75px\&quot; width\=\&quot;75px\&quot; \/\&gt;\&lt;\/a\&gt;\n          \&lt;h1 class\=\&quot;author\-name\&quot;\&gt;\{\{ site\.author \}\}\&lt;\/h1\&gt;\n          \{\% if site\.about \%\}\n            \&lt;div class\=\&quot;profile\-about\&quot;\&gt;\n              \{\{ site\.about \}\}\n            \&lt;\/div\&gt;\n          \{\% endif \%\}\n          \&lt;div class\=\&quot;social\&quot;\&gt;\n            \&lt;ul\&gt;\n              \{\% for link in site\.social \%\}\n                \&lt;li\&gt;\&lt;a href\=\&quot;\{\{ link\.link \}\}\&quot; target\=\&quot;_blank\&quot;\&gt;\&lt;i class\=\&quot;fa \{\{ link\.icon \}\}\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/a\&gt;\&lt;\/li\&gt;\n              \{\% endfor \%\}\n            \&lt;\/ul\&gt;\n          \&lt;\/div\&gt;\n          \&lt;div class\=\&quot;search\&quot; id\=\&quot;js\-search\&quot;\&gt;\n            \&lt;input type\=\&quot;text\&quot; placeholder\=\&quot;\(sitemap\)\~\$ type to search\&quot; class\=\&quot;search__input form\-control\&quot; id\=\&quot;js\-search__input\&quot;\&gt;\n            \&lt;ul class\=\&quot;search__results\&quot; id\=\&quot;js\-search__results\&quot;\&gt;\&lt;\/ul\&gt;\n          \&lt;\/div\&gt;\n          \&lt;hr \/\&gt;\n          \&lt;ul class\=\&quot;sidebar\-nav\&quot;\&gt;\n            \&lt;strong\&gt;Навигация\&lt;\/strong\&gt;\n            \&lt;\!\-\- \&lt;li\&gt;\&lt;a href\=\&quot;\/\&quot;\&gt;Home\&lt;\/a\&gt;\&lt;\/li\&gt; \-\-\&gt;\n            \{\% for i in site\.urls \%\}\n              \&lt;li\&gt;\&lt;a class\=\&quot;about\&quot; href\=\&quot;\{\{ i\.url \}\}\&quot;\&gt;\{\{ i\.text \}\}\&lt;\/a\&gt;\&lt;\/li\&gt;\n            \{\% endfor \%\}\n          \&lt;\/ul\&gt;\n        \&lt;\/div\&gt;\n        \&lt;\!\-\- end \/\.fixed\-condition \-\-\&gt;\n      \&lt;\/div\&gt;\n\n\n      \&lt;div class\=\&quot;main\-layout\&quot; style\=\&quot;overflow\: hidden\&quot;\&gt;\n\n        \&lt;div class\=\&quot;col\-xs\-12 col\-sm\-8 col\-md\-8 col\-lg\-8\&quot;\&gt;\n          \{\{ content \}\}\n          \&lt;\!\-\- \&lt;footer\&gt;\n\	\	\	\	\&amp;copy\; \{\{ site\.author \}\}\n\	\	\	\	\{\% if site\.github \%\}\n\	\	\	\	  \- \&lt;a href\=\&quot;\{\{ site\.github \}\}\&quot;\&gt;\{\{ site\.github \}\}\&lt;\/a\&gt; \- Powered by Jekyll\.\n\	\	\	\	\{\% endif \%\}\n\	\	\	\	\&lt;div class\=\&quot;btn\-github\&quot; style\=\&quot;float\:right\;\&quot;\&gt;\n\	\	\	\	  \&lt;iframe src\=\&quot;https\:\/\/ghbtns\.com\/github\-btn\.html\?user\=agusmakmun\&amp;repo\=agusmakmun\.github\.io\&amp;type\=star\&amp;count\=true\&quot; frameborder\=\&quot;0\&quot; scrolling\=\&quot;0\&quot; width\=\&quot;85\&quot; height\=\&quot;20px\&quot;\&gt;\&lt;\/iframe\&gt;\n\	\	\	\	  \&lt;iframe src\=\&quot;https\:\/\/ghbtns\.com\/github\-btn\.html\?user\=agusmakmun\&amp;repo\=agusmakmun\.github\.io\&amp;type\=fork\&amp;count\=true\&quot; frameborder\=\&quot;0\&quot; scrolling\=\&quot;0\&quot; width\=\&quot;85\&quot; height\=\&quot;20px\&quot;\&gt;\&lt;\/iframe\&gt;\n\	\	\	\	\&lt;\/div\&gt;\n\	\	\	 \&lt;\/footer\&gt; \-\-\&gt;\n        \&lt;\/div\&gt;\n        \&lt;div class\=\&quot;col\-xs\-12 col\-sm\-3 col\-md\-3 col\-lg\-4\&quot;\&gt;\n          \{\% include tag\-cat\.html \%\}\n        \&lt;\/div\&gt;\n\n      \&lt;\/div\&gt;\n\n\n\n\n\n\n\n      \&lt;\!\-\- end \/\.col\-sm\-8 \-\-\&gt;\n    \&lt;\/div\&gt;\n    \&lt;\!\-\- end \/\.container \-\-\&gt;\n\n    \&lt;\!\-\- Bootstrap core JavaScript \-\-\&gt;\n    \&lt;\!\-\- Placed at the end of the document so the pages load faster \-\-\&gt;\n    \&lt;script src\=\&quot;\/\/ajax\.googleapis\.com\/ajax\/libs\/jquery\/1\.11\.0\/jquery\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;script src\=\&quot;\/\/code\.jquery\.com\/jquery\-migrate\-1\.2\.1\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;script src\=\&quot;\/static\/js\/bootstrap\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;script src\=\&quot;\/static\/js\/super\-search\.js\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;script src\=\&quot;\/static\/js\/thickbox\-compressed\.js\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;script src\=\&quot;\/static\/js\/projects\.js\&quot;\&gt;\&lt;\/script\&gt;\n  \&lt;\/body\&gt;\n\&lt;\/html\&gt;\n</find>
+      <find>ontent</find>
+      <find>posts</find>
+      <find>$home</find>
+      <find>;home</find>
+      <find>%home</find>
+      <find>№home</find>
+      <find>home</find>
+      <find>#home</find>
+      <find>category_1</find>
+      <find>p</find>
+      <find>pagi</find>
+      <find>paginati</find>
+      <find>paginato</find>
+      <find>paginator</find>
+      <find>paginator.</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -87,26 +142,41 @@
         <option value="$PROJECT_DIR$/static/js/mail.php" />
         <option value="$PROJECT_DIR$/_site/projects/index.html" />
         <option value="$PROJECT_DIR$/_layouts/project_single.html" />
-        <option value="$PROJECT_DIR$/_layouts/project.html" />
-        <option value="$PROJECT_DIR$/_includes/youtubePlayer.html" />
-        <option value="$PROJECT_DIR$/projects.md" />
         <option value="$PROJECT_DIR$/contact.md" />
         <option value="$PROJECT_DIR$/about.md" />
-        <option value="$PROJECT_DIR$/video.md" />
         <option value="$PROJECT_DIR$/_posts/2013-12-23-ruby-json.markdown" />
         <option value="$PROJECT_DIR$/_posts/2016-12-29-top-10-python-libraries-of-2016.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/collecttags.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_includes/tagpage.html" />
         <option value="$PROJECT_DIR$/hololens.md" />
         <option value="$PROJECT_DIR$/tag/hololens.md" />
-        <option value="$PROJECT_DIR$/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/_includes/tag-cat.html" />
-        <option value="$PROJECT_DIR$/_site/category/raspberry.html" />
         <option value="$PROJECT_DIR$/_site/tag/hololens.html" />
+        <option value="$PROJECT_DIR$/_data/video.json" />
+        <option value="$PROJECT_DIR$/projects.md" />
+        <option value="$PROJECT_DIR$/_layouts/project.html" />
+        <option value="$PROJECT_DIR$/_layouts/kontakt.html" />
+        <option value="$PROJECT_DIR$/_includes/video-tags.html" />
+        <option value="$PROJECT_DIR$/_site/category/raspberry.html" />
+        <option value="$PROJECT_DIR$/static/js/common.js" />
+        <option value="$PROJECT_DIR$/static/js/gallery.js" />
+        <option value="$PROJECT_DIR$/_includes/video_tags.html" />
+        <option value="$PROJECT_DIR$/_includes/project_tags.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/video.md" />
+        <option value="$PROJECT_DIR$/_data/projects.json" />
+        <option value="$PROJECT_DIR$/_includes/youtubePlayer.html" />
+        <option value="$PROJECT_DIR$/_layouts/video.html" />
+        <option value="$PROJECT_DIR$/_layouts/page-video.html" />
         <option value="$PROJECT_DIR$/static/css/main.css" />
+        <option value="$PROJECT_DIR$/_includes/tag-cat.html" />
+        <option value="$PROJECT_DIR$/_site/python/django/2016/12/29/top-10-python-libraries-of-2016.html" />
+        <option value="$PROJECT_DIR$/_site/django/2016/04/19/replace-email-backend-gmail-to-postmarkapp-for-django.html" />
+        <option value="$PROJECT_DIR$/_layouts/post-tag-category-one.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/_layouts/posts_by_category.html" />
+        <option value="$PROJECT_DIR$/_layouts/page.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -161,7 +231,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tag" />
+              <option name="myItemId" value="_posts" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -175,25 +245,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jotbet.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jotbet.github.io" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="_layouts" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -318,12 +370,12 @@
       <workItem from="1551260307096" duration="2417000" />
       <workItem from="1551318916739" duration="3778000" />
       <workItem from="1551329556373" duration="15603000" />
-      <workItem from="1551398958697" duration="44000" />
+      <workItem from="1551398958697" duration="26763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25266000" />
+    <option name="totallyTimeSpent" value="51985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -332,11 +384,12 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1683381" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32771084" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -344,12 +397,57 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1683381" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -359,93 +457,20 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4524">
-          <caret line="156" column="56" lean-forward="false" selection-start-line="156" selection-start-column="56" selection-end-line="156" selection-end-column="56" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="580">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/video.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="232">
-            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="61" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10411">
-          <caret line="359" column="15" lean-forward="false" selection-start-line="359" selection-start-column="15" selection-end-line="359" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/youtubePlayer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="36" column="23" lean-forward="false" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/project.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="27" column="14" lean-forward="false" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="290">
-            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="50" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9773">
-          <caret line="337" column="45" lean-forward="false" selection-start-line="337" selection-start-column="45" selection-end-line="337" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/project_single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/youtubePlayer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="261">
             <caret line="9" column="73" lean-forward="false" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -473,13 +498,6 @@
             <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -511,34 +529,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_project/cool-project.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/project_single.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/project.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="27" column="14" lean-forward="false" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/youtubePlayer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -546,26 +541,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="58">
-            <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="58">
-            <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -583,40 +559,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-12-29-top-10-python-libraries-of-2016.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="139">
-            <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hololens.md" />
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/tagpage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/tags-category.html" />
     <entry file="file://$PROJECT_DIR$/tag/hololens.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="29">
             <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -626,41 +580,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31">
           <caret line="2" column="54" lean-forward="false" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/category/raspberry.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/tag-cat.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/project_tags.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -668,41 +588,300 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="134" column="45" lean-forward="false" selection-start-line="134" selection-start-column="45" selection-end-line="134" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/video.md">
+    <entry file="file://$PROJECT_DIR$/_includes/video_tags.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="232">
-            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="61" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+    <entry file="file://$PROJECT_DIR$/_project/cool-project.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="87">
+            <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/video.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4524">
-          <caret line="156" column="56" lean-forward="false" selection-start-line="156" selection-start-column="56" selection-end-line="156" selection-end-column="56" />
+        <state relative-caret-position="47">
+          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="203">
+            <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/project_tags.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-77">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="145">
+            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/video/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="156" column="51" lean-forward="false" selection-start-line="156" selection-start-column="51" selection-end-line="156" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/category/raspberry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="260" column="7" lean-forward="true" selection-start-line="260" selection-start-column="7" selection-end-line="260" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/gallery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="36" column="27" lean-forward="false" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/video.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="44" lean-forward="false" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/others/2016/04/26/javascript-validator-for-input-number.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="92" column="44" lean-forward="false" selection-start-line="92" selection-start-column="44" selection-end-line="92" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/projects.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/kontakt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="154" column="0" lean-forward="false" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/youtubePlayer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/video.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="33" column="16" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page-video.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="159" column="39" lean-forward="false" selection-start-line="159" selection-start-column="39" selection-end-line="159" selection-end-column="39" />
           <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="29">
+            <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="359" column="15" lean-forward="false" selection-start-line="359" selection-start-column="15" selection-end-line="359" selection-end-column="15" />
+        <state relative-caret-position="157">
+          <caret line="362" column="50" lean-forward="false" selection-start-line="362" selection-start-column="50" selection-end-line="362" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/tag-cat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/tagpage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-12-29-top-10-python-libraries-of-2016.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="203">
+            <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/python/django/2016/12/29/top-10-python-libraries-of-2016.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1079">
+          <caret line="157" column="10" lean-forward="false" selection-start-line="157" selection-start-column="10" selection-end-line="157" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#5705#5712#0" expanded="false" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#18940#18946#0" expanded="false" />
+            <element signature="e#18946#18952#0" expanded="false" />
+            <element signature="e#18952#18958#0" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/project_tags.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="23" column="80" lean-forward="false" selection-start-line="23" selection-start-column="80" selection-end-line="23" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/django/2016/04/19/replace-email-backend-gmail-to-postmarkapp-for-django.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="33" column="10" lean-forward="false" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post-tag-category-one.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="159" column="25" lean-forward="false" selection-start-line="159" selection-start-column="25" selection-end-line="159" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1421">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="43" column="15" lean-forward="false" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/posts_by_category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#1388#1395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1606">
+          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="65" column="76" lean-forward="false" selection-start-line="65" selection-start-column="66" selection-end-line="65" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
           <folding />
         </state>
       </provider>

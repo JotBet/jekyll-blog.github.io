@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page-video
 ---
 <article class="post">
   <header class="post-header">
@@ -19,13 +19,19 @@ layout: default
 
     <div class="projects">
       {% include project_tags.html %}
-      
+
       {% for i in site.data.projects %}
       <div class="project-item project-outer" data-tags='{{ i.tags | jsonify | downcase }}'>
         <div class="project-inner">
-          <a href="/static/projects/{{ i.image }}" class="thickbox">
-            <div class="project-img bordered" style="background-image: url('/static/projects/{{ i.image }}');"></div>
-          </a>
+          <div class="embed-container thickbox">
+            <iframe class="{{ i.class }}"
+                    src="https://www.youtube.com/embed/{{ i.id }}"
+                    width="275"
+                    height="200"
+                    frameborder="0"
+                    allowfullscreen="">
+            </iframe>
+          </div>
           {% assign p_url = nil %}
           {% for pr in p_array %}
             {% if pr contains i.slug %}
@@ -33,14 +39,7 @@ layout: default
             {% endif %}
           {% endfor %}
 
-          {% if p_url == nil %}{% assign p_url = i.url %}{% endif %}
-          {% if p_url %}
-            <a class="project-detail" href="{{ p_url }}">
-          {% endif %}
-            <h3 class="project-headlines">{{ i.name }}</h3>
-          {% if p_url %}
-            </a>
-          {% endif %}
+          <a class="project-detail" href="https://www.youtube.com?v={{ i.id }}">
 
           <div class="project-content">
             <div class="tag-holder">
@@ -52,9 +51,7 @@ layout: default
             </div>
           </div>
           <div class="project-footer">
-            {% if i.url %}
-              <a href="{{ i.url }}" class="project-link" target="_blank"><i class="fa fa-globe"></i> View</a>
-            {% endif %}
+
             <span class="project-timeline">{{ i.date }}</span>
           </div>
         </div>
