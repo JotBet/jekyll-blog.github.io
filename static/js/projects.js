@@ -1,14 +1,14 @@
 (function($){
 	$(document).ready(function(){
-		$(document).on('click','.tag-filter',function(){
+		$(document).on('click','._tag-filter',function(){
 			var $this = $(this);
 			
-			$('span.tag-filter').removeClass("active");
+			$('span._tag-filter').removeClass("active");
 			$this.addClass("active");
 
 
-			$('.tag-group').children().each(function(){
-				if( $(this).data('tag') ==  $this.data('tag')){
+			$('._tag-group').children().each(function(){
+				if( $(this).data('_tag') ==  $this.data('_tag')){
 					$(this).addClass("active");
 				}
 			});
@@ -16,7 +16,7 @@
 			if( $(this).hasClass('all'))
 				$('.project-item').showAll();
 			else
-				$('.project-item').filterTags( $(this).data('tag') );
+				$('.project-item').filterTags( $(this).data('_tag') );
 		});
 	});
 
