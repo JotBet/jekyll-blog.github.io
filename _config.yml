@@ -61,12 +61,3 @@ compress_html:
   ignore:
     envs: ['development']
 
-defaults:
-  - ...
-  - { scope: { path: "_posts/category_1" }, values:  { category: "category_1" } }
-  - { scope: { path: "_posts/category_2" }, values:  { category: "category_2" } }
-  - { scope: { path: "_posts/category_3" }, values:  { category: "category_3" } }
-posts-categories:
-  - "category_1"
-  - "category_2"
-  - "category_3"

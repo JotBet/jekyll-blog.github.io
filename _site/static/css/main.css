@@ -376,7 +376,8 @@ input:focus, textarea:focus {
 .side > div {padding: 12px 0 0px 13px;}
 .post-content {margin-bottom: 20px;}
 
-
+a .code {
+  background-color: #c6cbe9; color: #ffffff}
 
 
 
