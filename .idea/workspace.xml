@@ -1,175 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0946fb5-58f7-4262-b55c-1d5639e80ab3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_config.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/projects.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/collecttags.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/project_tags.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/share-page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/tag-cat.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/tagpage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/youtubePlayer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/compress.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/kontakt.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/page-video.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/post-tag-category-one.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/posts_by_category.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/project_single.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/video.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_1/2013-12-23-ruby-json.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_1/2013-12-23-welcome-to-simply-grey.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_1/2016-04-19-download-recrusive-files-inside-index-of-in-linux-using-wget.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_1/2016-04-19-email-backend-with-smtp-gmail.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_1/2016-04-19-python-permutations.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_1/2016-04-19-remove-all-files-pyc-with-recrusive-method.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_1/2016-04-19-replace-email-backend-gmail-to-postmarkapp-for-django.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_2/2016-04-19-simple-bash-scripting-for-login-before-open-the-terminal.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_2/2016-04-19-welcome-to-jekyll.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_2/2016-04-20-adding-broadcast-mail-to-all-users-registered-inside-django-admin.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_2/2016-04-20-custom-redirect-urls-django.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_2/2016-04-20-setup-django-in-apache2-raspberry-pi.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_3/2016-04-26-javascript-validator-for-input-number.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_3/2016-05-21-censorthis-censor-the-words-cf.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_3/2016-05-21-notpaired-cf.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_3/2016-05-21-python-crazy-decrypter-has-been-released.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_3/2016-05-21-python-simple-ciphertext.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_3/2016-05-22-reverse-bit-cf.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_4/2016-06-11-find-substrings-for-line-encoding-cf.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_4/2016-06-11-find-the-number-of-even-digits-in-the-given-integer-cf.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_4/2016-06-11-get-month-name-cf.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/category_4/2016-12-29-top-10-python-libraries-of-2016.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_project/cool-project.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_sass/_base.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_sass/_layout.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_sass/_syntax-highlighting.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/RE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bash/2016/04/19/download-recrusive-files-inside-index-of-in-linux-using-wget.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/bash/2016/04/19/simple-bash-scripting-for-login-before-open-the-terminal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/category/bash.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/category/codefights.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/category/django.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/category/jekyll.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/category/others.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/category/python.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/category/raspberry.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/category/ruby.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/category/security.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/contact/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/django/2016/04/19/replace-email-backend-gmail-to-postmarkapp-for-django.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/django/raspberry/2016/04/20/setup-django-in-apache2-raspberry-pi.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/jekyll/2013/02/19/welcome-to-jekyll.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/jekyll/2013/12/23/welcome-to-simply-grey.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/others/2016/04/26/javascript-validator-for-input-number.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/page/2/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/project/cool-project/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/python/2016/04/19/python-permutations.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/python/bash/2016/04/19/remove-all-files-pyc-with-recrusive-method.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/python/codefights/2016/05/22/censorthis-censor-the-words-cf.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/python/codefights/2016/05/22/notpaired-cf.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/python/codefights/2016/05/22/reverse-bit-cf.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/python/codefights/2016/06/11/find-substrings-for-line-encoding-cf.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/python/codefights/2016/06/11/find-the-number-of-even-digits-in-the-given-integer-cf.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/python/codefights/2016/06/11/get-month-name-cf.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/python/django/2016/04/19/email-backend-with-smtp-gmail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/python/django/2016/04/20/adding-broadcast-mail-to-all-users-registered-inside-django-admin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/python/django/2016/04/20/custom-redirect-urls-django.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/python/django/2016/12/29/top-10-python-libraries-of-2016.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/python/security/2016/05/21/python-crazy-decrypter-has-been-released.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/python/security/2016/05/21/python-simple-ciphertext.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/ruby/2013/12/23/ruby-json.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/sitemap.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/css/projects.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/css/super-search.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/css/syntax.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/css/thickbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/img/avatar-img.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/img/avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/img/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/img/loadingAnimation.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/img/macFFBgHack.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/img/screenshot-post-page.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/img/screenshot-post-page_old.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/img/subtle_dots.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/js/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/js/mail.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/js/projects.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/js/super-search.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/js/thickbox-compressed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/static/projects/placeholder.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tag/category_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tag/category_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tag/category_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tag/category_4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tag/category_5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tag/category_6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tag/category_7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tag/category_8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/tag/category_9.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/video/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/category/bash.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/category/codefights.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/category/django.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/category/jekyll.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/category/others.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/category/python.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/category/raspberry.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/category/ruby.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/category/security.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contact.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sitemap.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/projects.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/super-search.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/syntax.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/thickbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/_posts/Broadcast_Mail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/avatar-img.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/loadingAnimation.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/macFFBgHack.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/screenshot-post-page.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/screenshot-post-page_old.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/subtle_dots.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/mail.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/projects.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/super-search.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/thickbox-compressed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/projects/_site/placeholder.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/projects/placeholder.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/category_1.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/category_2.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/category_3.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/category_4.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/category_5.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/category_6.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/category_7.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/category_8.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tag/category_9.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/video.md" afterPath="" />
-    </list>
+    <list default="true" id="b0946fb5-58f7-4262-b55c-1d5639e80ab3" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -179,7 +11,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -310,6 +142,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -417,7 +250,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -526,17 +358,18 @@
       <workItem from="1551398958697" duration="31016000" />
       <workItem from="1551439711799" duration="2430000" />
       <workItem from="1551443148982" duration="188000" />
+      <workItem from="1551443591281" duration="1000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58856000" />
+    <option name="totallyTimeSpent" value="58857000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2901146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2944126" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3313253" sideWeight="0.5028653" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -653,7 +486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-77">
           <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -908,7 +740,6 @@
             <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
             <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
             <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -926,7 +757,6 @@
             <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
             <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
             <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -944,7 +774,6 @@
             <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
             <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -962,7 +791,6 @@
             <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
             <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -980,7 +808,6 @@
             <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
             <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
             <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -991,7 +818,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="232">
             <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1009,7 +835,6 @@
             <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
             <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
             <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1019,7 +844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1027,7 +851,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
           <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1036,7 +859,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="319">
             <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
