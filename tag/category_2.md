@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Tag: hololens"
-tag: category_2
+tag: category_2.html
 ---
 
 <div id="home">
